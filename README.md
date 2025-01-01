@@ -7,5 +7,6 @@ Ongoing projects includes an in progress proof of stake blockchain build, AI LLM
 ReMeLife is developing an AI LLM (Large Language Model) agentic project to enhance the care process through advanced AI solutions. The project is building AI agents to refine and improve care strategies, leverage AI to provide personalized and engaging care experiences and optimise the use of its proprietary data process and data sets, including Electronic Life Records (ELR). OUtput includes actionable insights for better care management and a passive activity based income.
 Code access can be provide upon request to team@remelife.com
 
+
 ![Project Screenshot](https://github.com/ReMe-life/ReMeLife-Project/blob/main/Picture8.png)
 
