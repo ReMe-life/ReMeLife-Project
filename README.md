@@ -4,3 +4,4 @@ Its core app is RemindMecare, with its data core generating a proprietary Electr
 Key apps hosted on Playstore include RAPP, ReMeLife and RemindMecare
 With ongoing build that includes a in progress proof of stake blockchain project build, AI LLM agentic modelling pending build.
 Code access can be provide upon request to team@remelife.com
+![Project Screenshot](https://github.com/ReMe-life/ReMeLife-Project/blob/main/Picture8.png)
